@@ -1,0 +1,21 @@
+{
+  "name": "haykal-skills",
+  "version": "1.2.0",
+  "description": "Haykal's public Claude Code skills: UI/UX design and animation (UI UX Pro Max and its design skills, Emil Kowalski's skills, ui-elevate, scratch), marketing (Corey Haines' marketing skills), context engineering, Remotion video, writing (stop-slop) and math tutorial solutions.",
+  "author": {
+    "name": "Haykal"
+  },
+  "homepage": "https://github.com/Lymion/skills-collections-public",
+  "repository": "https://github.com/Lymion/skills-collections-public",
+  "keywords": [
+    "skills",
+    "ui",
+    "ux",
+    "design",
+    "animation",
+    "marketing",
+    "context-engineering",
+    "remotion",
+    "math"
+  ]
+}

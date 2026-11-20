@@ -1,0 +1,36 @@
+{
+  "name": "haykal-public",
+  "description": "Haykal's public Claude Code skills library.",
+  "owner": {
+    "name": "Haykal"
+  },
+  "metadata": {
+    "description": "Haykal's public Claude Code skills library.",
+    "version": "1.2.0"
+  },
+  "plugins": [
+    {
+      "name": "haykal-skills",
+      "source": "./plugins/haykal-skills",
+      "description": "Haykal's public Claude Code skills: UI/UX design and animation (UI UX Pro Max and its design skills, Emil Kowalski's skills, Impeccable, Taste Skill, Oil UI, Stageshow, Dimensional Drawing, ui-elevate, scratch), marketing (Corey Haines' marketing skills), context engineering, Remotion video, writing (stop-slop) and math tutorial solutions.",
+      "version": "1.2.0",
+      "author": {
+        "name": "Haykal"
+      },
+      "homepage": "https://github.com/Lymion/skills-collections-public",
+      "repository": "https://github.com/Lymion/skills-collections-public",
+      "keywords": [
+        "skills",
+        "ui",
+        "ux",
+        "design",
+        "animation",
+        "marketing",
+        "context-engineering",
+        "remotion",
+        "math"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
